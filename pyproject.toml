@@ -2,7 +2,7 @@
 name = "opencv_read_weather"
 version = "0.1.0"
 description = ""
-authors = ["Dion Boles <82461519+dionboles-asym@users.noreply.github.com>"]
+authors = ["Dion Boles"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
